@@ -1,0 +1,7 @@
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
